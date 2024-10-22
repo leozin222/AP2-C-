@@ -1,0 +1,14 @@
+c:\Users\Isadora\Downloads\Nova pasta\teste\bin\Debug\net8.0\teste.exe
+C:\Users\Isadora\Downloads\Nova pasta\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\Isadora\Downloads\Nova pasta\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+c:\Users\Isadora\Downloads\Nova pasta\teste\bin\Debug\net8.0\teste.dll
+c:\Users\Isadora\Downloads\Nova pasta\teste\bin\Debug\net8.0\teste.pdb
+c:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+c:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+c:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+c:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\teste.dll
+c:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\refint\teste.dll
+c:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\Isadora\Downloads\Nova pasta\teste\obj\Debug\net8.0\ref\teste.dll
